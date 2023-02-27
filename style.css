@@ -1,5 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+text-decoration: 0;
+}
+ul{lis list-style-type: 0}
+
 header{
 	height: 387.56px;
 	background-color: #0020F4;
 
+}
+nav a {
+	color: #FFFFFF;
+}
+section{
+	max-width: 1195px;
+	margin: auto;
+	margin-top: -100px;
+}
+nav li {
+	display: inline-block;
 }
