@@ -10,7 +10,10 @@ ul{lis list-style-type: 0}
 header{
 	height: 387.56px;
 	background-color: #0020F4;
-
+	padding-top: 40px;
+}
+header li{
+	margin-left: 40px;
 }
 nav a {
 	color: #FFFFFF;
@@ -23,6 +26,9 @@ section{
 nav li {
 	display: inline-block;
 }
+nav,nav ul,nav li {
+	display: inline-block;
+}
 footer{
 	height:1080px ;
 	background-color: #0A22F4;
@@ -32,7 +38,4 @@ h3{
 	background-color: #0A22F4;
 	padding: 8px;
 	color: #FFFFFF;
-}
-.map-tittle{
-	color: white;
 }
