@@ -23,3 +23,13 @@ section{
 nav li {
 	display: inline-block;
 }
+footer{
+	height:1080px ;
+	background-color: #0A22F4;
+	margin-top: 200px;
+}
+h3{
+	background-color: #0A22F4;
+	padding: 8px;
+	color: #FFFFFF;
+}
